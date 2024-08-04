@@ -17,7 +17,7 @@ Creative Commons 営利利用可のものだけをダウンロードしました
 
 ## 画像情報
 
-- 画像トータル枚数: 429枚
+- 画像トータル枚数: 426枚
 - 画像サイズ (150x150)
 - 機械学習用途のために制作
 
@@ -37,7 +37,7 @@ Here, the data directory is organized by different types of ramen.
 
 ## Image Information
 
-- Total number of images: 429
+- Total number of images: 426
 - Image size: 150x150
 - Created for machine learning purposes
 
