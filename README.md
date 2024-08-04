@@ -1,4 +1,4 @@
-# ラーメン画像のデータベース
+# ラーメン画像のデータセット
 
 著作権的問題のない大量のラーメン画像をダウンロードして、分類したものです。
 Creative Commons 営利利用可のものだけをダウンロードしました。
@@ -21,7 +21,7 @@ Creative Commons 営利利用可のものだけをダウンロードしました
 - 画像サイズ (150x150)
 - 機械学習用途のために制作
 
-# Ramen Image Database
+# Ramen Image Dataset
 
 A large collection of ramen images without copyright issues has been downloaded and categorized. Only those available under Creative Commons for commercial use were downloaded.
 
