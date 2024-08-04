@@ -13,8 +13,11 @@ Creative Commons 営利利用可のものだけをダウンロードしました
 - 味噌ラーメン: miso
 - 冷やし中華: chilled
 
-画像トータル枚数: 429枚
+## 画像情報
 
+- 画像トータル枚数: 429枚
+- 画像サイズ (150x150)
+- 機械学習用途のために制作
 
 # Ramen Image Database
 
@@ -29,4 +32,10 @@ Here, the data directory is organized by different types of ramen.
 - Spicy Sesame Ramen - spicy
 - Miso Ramen - miso
 - Chilled Chinese Noodles - chilled
+
+## Image Information
+
+- Total number of images: 429
+- Image size: 150x150
+- Created for machine learning purposes
 
