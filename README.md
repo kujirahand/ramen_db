@@ -10,7 +10,7 @@ Creative Commons 営利利用可のものだけをダウンロードしました
 ここでは、dataディレクトリ以下に、ラーメンの種類ごとに分類しています。
 
 - 塩ラーメン: salt
-- 醤油ラーメン: soya_source
+- 醤油ラーメン: soy_sauce
 - 担々麺: spicy
 - 味噌ラーメン: miso
 - 冷やし中華: chilled
@@ -30,7 +30,7 @@ The sources include Flickr, using the keywords "ラーメン" and "ramen". The i
 Here, the data directory is organized by different types of ramen.
 
 - Salt Ramen - salt
-- Soy Sauce Ramen - soya_source
+- Soy Sauce Ramen - soy_sauce
 - Spicy Sesame Ramen - spicy
 - Miso Ramen - miso
 - Chilled Chinese Noodles - chilled
